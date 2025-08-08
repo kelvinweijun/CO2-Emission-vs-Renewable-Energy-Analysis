@@ -1,2 +1,2 @@
-# CO2-Emission-vs-Renewable-Energy-Analysis
-Data Analysis to explore the correlation between greenhouse gas emissions and the use of renewable energy globally and regional
+# CO2-Emission vs Renewable Energy Analysis
+This study examines the relationship between renewable energy adoption and per capita CO₂ emissions across countries, highlighting regional variations. Analysis of global data reveals a moderate negative correlation (r = -0.371, p = 0.098), with South America showing high renewable use and low emissions, and the Middle East exhibiting the opposite trend. Results suggest renewable energy contributes to emissions reduction but is influenced by regional resources, economic factors, and policies. Limitations include data gaps, single-year focus, and lack of causation analysis. Tailored regional strategies alongside broader energy reforms are essential for effective climate mitigation.
